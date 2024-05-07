@@ -1,38 +1,38 @@
 [
   {
-    "name": "Github",
+    "name": "Douyin",
     "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "tip": "去 Douyin 看看",
+    "url": "https://www.douyin.com/user/MS4wLjABAAAAAPTbL7LFFfLVuWSGn_h2RHz-2JmgVdUL4cULwo0vWp_5jmE1HPPFY1SnkhglOFwK"
+  },
+  {
+    "name": "Xiaohongshu",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://www.xiaohongshu.com/user/profile/5ef21298000000000100476f"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "url": "https://space.bilibili.com/391512180"
   },
   {
     "name": "QQ",
     "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "tip": "有什么事吗 ~",
+    "url": ""
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
+    "tip": "有什么事吗 ~",
+    "url": ""
   },
   {
-    "name": "Twitter",
+    "name": "Wechat",
     "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "tip": "有什么事吗 ~",
+    "url": ""
   }
 ]
