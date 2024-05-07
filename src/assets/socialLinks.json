@@ -7,7 +7,7 @@
   },
   {
     "name": "Xiaohongshu",
-    "icon": "/images/icon/bilibili.png",
+    "icon": "/images/icon/xiaohongshu.png",
     "tip": "(゜-゜)つロ 干杯 ~",
     "url": "https://www.xiaohongshu.com/user/profile/5ef21298000000000100476f"
   },
@@ -30,8 +30,8 @@
     "url": ""
   },
   {
-    "name": "Wechat",
-    "icon": "/images/icon/twitter.png",
+    "name": "WeChat",
+    "icon": "/images/icon/wechat.png",
     "tip": "有什么事吗 ~",
     "url": ""
   }
