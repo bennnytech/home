@@ -24,14 +24,14 @@
     "url": ""
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
+    "name": "WeChat",
+    "icon": "/images/icon/wechat.png",
     "tip": "有什么事吗 ~",
     "url": ""
   },
   {
-    "name": "WeChat",
-    "icon": "/images/icon/wechat.png",
+    "name": "Email",
+    "icon": "/images/icon/email.png",
     "tip": "有什么事吗 ~",
     "url": ""
   }
