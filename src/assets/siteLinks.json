@@ -1,37 +1,32 @@
 [
   {
     "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
-  },
-  {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "我的博客",
+    "link": "https://blog.kejiben.fun/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "宝藏工具箱",
+    "link": "https://nav.kejiben.fun/"
   },
   {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "icon": "Crosshairs",
+    "name": "IP工具箱",
+    "link": "https://ip.kejiben.fun/"
   },
   {
-    "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "icon": "CommentDotsRegular",
+    "name": "NextChat GPT",
+    "link": "https://gpt.kejiben.fun/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Cloud",
+    "name": "腾讯云优惠",
+    "link": "https://cloud.tencent.com/act/cps/redirect?redirect=2446&cps_key=5116a8c4c8fb5e3bf448514a16391149&from=console"
+  },
+  {
+    "icon": "Cloud",
+    "name": "阿里云优惠",
+    "link": "https://www.aliyun.com/minisite/goods?userCode=1d53bv4k"
   }
 ]
