@@ -34,30 +34,7 @@
     <noscript>
       <div style="text-align: center">请开启 JavaScript</div>
     </noscript>
-    
-    <script>
-  function loadScript(url) {
-    return new Promise((resolve, reject) => {
-      const script = document.createElement('script');
-      script.src = url;
-      script.onload = resolve;
-      script.onerror = reject;
-      document.body.appendChild(script);
-    });
-  }
-
-  // 在适当的时机调用 loadScript() 方法来动态加载脚本
-  loadScript('/images/disable-devtool.min.js')
-    .then(() => {
-      // 脚本加载成功后的回调函数
-      console.log('disable-devtool-auto script loaded successfully.');
-    })
-    .catch((error) => {
-      // 脚本加载失败后的回调函数
-      console.error('Failed to load disable-devtool-auto script:', error);
-    });
-</script>
-    
     <script type="module" src="/src/main.js"></script>
+    <script disable-devtool-auto src='/images/disable-devtool.min.js'></script>
   </body>
 </html>
